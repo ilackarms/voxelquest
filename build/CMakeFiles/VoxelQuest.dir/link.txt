@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++    -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/VoxelQuest.dir/compiled/main.cpp.o  -o VoxelQuest  -framework AGL -framework OpenGL -framework GLUT /usr/local/lib/libGLEW.dylib /usr/local/lib/libsfml-audio.dylib 
